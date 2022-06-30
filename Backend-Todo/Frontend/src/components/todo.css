@@ -1,0 +1,10 @@
+.title{
+    display: inline-block;
+    margin: 1em;
+}
+.row{
+    border: 1px solid rgb(22, 211, 245);
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+}
